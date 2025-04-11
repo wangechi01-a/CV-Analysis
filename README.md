@@ -1,5 +1,5 @@
 
-# CV Analysis & Matching System
+# CV/Resume Analysis 
 
 ## Overview
 The CV Analysis & Matching System is a Streamlit-based web application that analyzes CVs against job descriptions using natural language processing and machine learning techniques. It provides skill matching, recommendations, and generates detailed reports for job seekers.
