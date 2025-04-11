@@ -37,7 +37,7 @@ spacy
 Clone the repository:
 ```bash
 git clone [repository-url]
-cd cv-analysis-system
+cd CV/Resume-analysis
 ```
 
 Create and activate a virtual environment:
