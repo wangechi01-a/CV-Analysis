@@ -1,0 +1,9 @@
+streamlit
+sentence-transformers
+scikit-learn
+pandas
+pypdf
+langchain-community
+python-magic-bin; sys_platform == 'win32'
+nest-asyncio
+spacy
