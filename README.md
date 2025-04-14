@@ -118,14 +118,6 @@ cv-analysis-system/
 
 ---
 
-## Limitations
-- Currently supports PDF format only  
-- Requires clear text extraction from PDFs  
-- English language support only  
-- Limited to technical skill analysis  
-
----
-
 ## Future Improvements
 - Support for additional document formats  
 - Multi-language support  
