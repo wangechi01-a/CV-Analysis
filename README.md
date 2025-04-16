@@ -5,7 +5,7 @@
 The CV Analysis & Matching System is a Streamlit-based web application that analyzes CVs against job descriptions using natural language processing and machine learning techniques. It provides skill matching, recommendations, and generates detailed reports for job seekers.
 
 ## Use Cases
-- **Job Seekers:** Evaluate how well your CV matches specific job descriptions and get actionable recommendations to improve your chances.
+- **Job Seekers:** Evaluate how well a CV matches specific job descriptions and get actionable recommendations to improve your chances.
 - **Career Coaches:** Help clients identify gaps between their resumes and industry/job requirements.
 - **Recruiters & HR Teams:** Quickly assess applicant suitability based on skill match and similarity scoring.
 - **Learning & Development:** Identify trending or required technical skills and tailor upskilling plans for individuals or teams.
